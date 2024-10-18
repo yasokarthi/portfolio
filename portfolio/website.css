@@ -1,0 +1,65 @@
+body{
+    background-image:url(yasom.jpg);
+    background-repeat:no-repeat;
+    height:700px;
+    width:700px;
+    background-color:black;
+    margin-left: 200px;
+    
+    
+}
+.nav{
+    
+    display:flex;
+    color:white;
+    
+}
+.nav>a{
+    width:50%;
+    text-decoration:none;
+}
+.content{
+    text-align:center;
+    height:80vh;
+    padding-top:10%;
+    font-size:xx-large;
+}
+.overall{
+     height:100px;
+    
+    
+}
+.content>h1{
+    color:yellow;
+    margin-left:600px;
+
+}
+.content>p{
+    list-style-type:lower-alpha;
+    color:white;
+    margin-left: 400px;
+}
+.content>p{
+    color:white;
+     width:50%;
+
+}
+.links{
+    margin-left: 1000px;
+}
+.content2 >button{
+    color:yellow;
+    margin-left: 1000px;
+}
+.content2>button{
+    padding: 8px 16px;
+    font-size: 18px;
+    background-color: yellow;
+    color:#ddd;
+    border-radius: 55px;
+    outline: none;
+    cursor: pointer;
+    box-shadow: 0px 8px 15px;
+    transition:0.4s;
+    width:100px;
+}

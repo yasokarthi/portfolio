@@ -1,0 +1,28 @@
+.content1{
+    background-color:pink;
+    display:flex;
+    border:2px solid black;
+
+
+}
+.content1>h1>{
+        color:white;
+        
+}
+.content1>p{ 
+    color:lightgray;
+}
+.content1.card2>h1{
+      color:white;
+}
+.content2{
+    background-color:pink;
+    display:flex;
+    border:2px solid black;
+}
+.content2>img{
+    width:100%;
+}
+.content2>h1{
+     color:white;
+}
